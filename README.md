@@ -1,4 +1,4 @@
 # Data-Visualization
 
-Global IT Skills: https://tinyurl.com/3peafsc4
+Global IT Skills Dashboard: https://tinyurl.com/3peafsc4
 
