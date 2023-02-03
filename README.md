@@ -10,13 +10,10 @@
    
    2.3 Product Sales Dashboard & Customers Dashboard: https://tinyurl.com/4amybtbr
 
-## 3 Data Visualization with Python
-   3.1 Generating Waffle, Charts, Word Clouds and Regression Plots with Python
-   
-   3.2 Generating Maps with Python
-   
-   3.3 Generating  Basic Plotly Charts with Python: scatter, line, bar, bubble, histogram, pie, sunburst
-   
+## 3 Data Visualization with PowerBI
+
+   3.1
+
 ## 4 Data Visualization with Tableau
    4.1 Global CO2 Emissions Dashboard: https://tinyurl.com/37a8m8bf
    
@@ -29,11 +26,13 @@
    5.1 Palmer Penguins: Body Mass vs Flipper Length
    
    5.2 to 5.5
- 
-## 6 Data Visualization with PowerBI
-
-   6.1
    
+## 6 Data Visualization with Python
+   6.1 Generating Waffle, Charts, Word Clouds and Regression Plots with Python
+   
+   6.2 Generating Maps with Python
+   
+   6.3 Generating  Basic Plotly Charts with Python: scatter, line, bar, bubble, histogram, pie, sunburst   
   
   
    
