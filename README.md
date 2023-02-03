@@ -23,3 +23,10 @@
    4.2 My World Happiness Demo Dashboard: https://tinyurl.com/2p8vbyks
    
    4.3 World Happiness Dashboard: https://tinyurl.com/yc64jrrd
+ 
+## 5 Data Visualization in R
+
+   5.1 
+  
+   5.2
+  
