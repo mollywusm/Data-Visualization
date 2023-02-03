@@ -29,6 +29,10 @@
    5.1 Palmer Penguins: Body Mass vs Flipper Length
    
    5.2 to 5.5
+ 
+## 6 Data Visualization with PowerBI
+
+   6.1
    
   
   
