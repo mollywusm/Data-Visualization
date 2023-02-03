@@ -8,4 +8,4 @@ Car Sales Dashboard: https://tinyurl.com/wyc7t7yh
 Product Sales Dashboard & Customers Dashboard: https://tinyurl.com/4amybtbr
 
 ## Data Visualization with Python
-   Waffle Charts, Word Clouds, and Regression Plots
+   Waffle Charts, Word Clouds, and Regression Plots: https://tinyurl.com/mr3naakm
