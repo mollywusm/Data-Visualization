@@ -17,5 +17,7 @@
    
    Generating  Basic Plotly Charts with Python: scatter, line, bar, bubble, histogram, pie, sunburst
    
-## Data Visualization with Python
-   
+## Data Visualization with Tableau
+   Global CO2 Emissions Dashboard: https://tinyurl.com/37a8m8bf
+   My World Happiness Demo Dashboard: https://tinyurl.com/yc64jrrd
+   World Happiness Dashboard: https://tinyurl.com/yc64jrrd
