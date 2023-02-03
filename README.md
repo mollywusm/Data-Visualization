@@ -27,6 +27,6 @@
 ## 5 Data Visualization in R
 
    5.1 Palmer Penguins: Body Mass vs Flipper Length
-  
+   5.2 ......
    
   
