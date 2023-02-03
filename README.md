@@ -14,3 +14,5 @@
    Generating Waffle, Charts, Word Clouds and Regression Plots with Python
    
    Generating Maps with Python
+   
+   Generating  Basic Plotly Charts with Python
