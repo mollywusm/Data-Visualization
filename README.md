@@ -16,3 +16,6 @@
    Generating Maps with Python
    
    Generating  Basic Plotly Charts with Python: scatter, line, bar, bubble, histogram, pie, sunburst
+   
+## Data Visualization with Python
+   
