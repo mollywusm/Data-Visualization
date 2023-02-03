@@ -1,6 +1,6 @@
 # Data-Visualization
 
-## Dta Visualization with Excel 
+## Dta Visualization and Dashboards with Excel 
    Car_Sales_Dashboard.xlsx
 
 ## Data Visualization with IBM Cognos
