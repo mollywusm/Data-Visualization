@@ -12,7 +12,7 @@
 
 ## 3 Data Visualization with PowerBI
 
-   3.1
+   3.1 Sales Report
 
 ## 4 Data Visualization with Tableau
    4.1 Global CO2 Emissions Dashboard: https://tinyurl.com/37a8m8bf
